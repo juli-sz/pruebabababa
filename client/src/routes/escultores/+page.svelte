@@ -1,6 +1,6 @@
 <script>
     // Ejemplo de datos para las cards
-    import Carrusel from "../../components/carrusel.svelte";
+    import Carrusel from "../../components/Carrusel.svelte";
 
     let cards = [
         { id: 1, title: 'Card 1', escultorPantalla:'obra1', escultorObras: 'https://tecdn.b-cdn.net/img/new/standard/nature/186.jpg', content: 'Some quick example text to build on the card title and make up the bulk of the card\'s content.', escultorName:'Pablo Picasso', escultorPais:'src/public/arg.png', escultorFoto:'src/public/pablopicasso.png'},
