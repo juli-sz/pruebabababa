@@ -1,5 +1,4 @@
-
-<section 
+<section
   class="gradient-form h-full dark:bg-neutral-700 mx-auto my-auto"
 >
   <div class="container h-full px-80 mx-auto"
